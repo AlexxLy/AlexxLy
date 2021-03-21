@@ -48,6 +48,7 @@ bash update.sh
 #### DarksecDevelopers: https://github.com/DarksecDevelopers
 #### UndeadSec: https://github.com/UndeadSec
 #### HTR-TECH: https://github.com/htr-tech
+#### AbirHasan2005: https://github.com/AbirHasan2005
 
 ## Follow on:
 <p align="left">
