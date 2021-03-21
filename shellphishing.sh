@@ -185,10 +185,10 @@ vk
 elif [[ $option == 30]]; then
 server="create"
 createpage
-start1
+start
 elif [[ $option == 31]]; then
 server="cic"
-start1
+start
 elif [[ $option == ST || $option == st ]]; then
 clear
 printf "\n\e[1;92mRunning Termux Setup "
