@@ -32,6 +32,7 @@ apt update && apt upgrade &&  git clone https://github.com/AlexxLy/AlexxLy && cd
 ## How to Update:
 ```bash
 cd ShellPhishing
+bash ShellPhising.sh
 ```
 
 ### Note:
