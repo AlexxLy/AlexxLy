@@ -1,5 +1,5 @@
 # ShellPhish v3.5-MOD
-Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam, Twitter, PlayStation, GitHub, Twitch, Pinterest, Snapchat, Linkedin, Ebay, Dropbox, Protonmail, Spotify, Reddit, Adobe, DeviantArt, Badoo, Origin, CryptoCoin, Yahoo, Wordpress, Yandex, StachoverFlow & VK. This is a modified version of ShellFish, ShellPhish & Zphisher.
+Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam, Twitter, PlayStation, GitHub, Twitch, Pinterest, Snapchat, Linkedin, Ebay, Dropbox, Protonmail, Spotify, Reddit, Adobe, DeviantArt, Badoo, Origin, CryptoCoin, Yahoo, Wordpress, Yandex, StachoverFlow, VK & CIC. This is a modified version of ShellFish, ShellPhish & Zphisher.
 
 ## ChangeLog:
 - Updated to v3.5:
@@ -26,13 +26,12 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 
 ### Usage:
 ```bash
-apt update && apt upgrade -y && apt install git wget php unzip curl -y && git clone https://github.com/AlexxLy/AlexxLy && cd ShellPhishing && chmod +x * && bash shellphishing.sh
+apt update && apt upgrade &&  git clone https://github.com/AlexxLy/AlexxLy && cd ShellPhishing && chmod +x ShellPhishing && bash shellphishing.sh
 ```
 
 ## How to Update:
 ```bash
 cd ShellPhishing
-bash update.sh
 ```
 
 ### Note:
