@@ -94,7 +94,6 @@ printf " \e[1;31m[\e[0m\e[1;77m07\e[0m\e[1;31m]\e[0m\e[1;93m Steam        \e[0m\
 printf " \e[1;31m[\e[0m\e[1;77m08\e[0m\e[1;31m]\e[0m\e[1;93m Twitter      \e[0m\e[1;31m[\e[0m\e[1;77m18\e[0m\e[1;31m]\e[0m\e[1;93m Spotify      \e[0m\e[1;31m[\e[0m\e[1;77m28\e[0m\e[1;31m]\e[0m\e[1;93m StackoverFlow\e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77m09\e[0m\e[1;31m]\e[0m\e[1;93m PlayStation  \e[0m\e[1;31m[\e[0m\e[1;77m19\e[0m\e[1;31m]\e[0m\e[1;93m Reddit       \e[0m\e[1;31m[\e[0m\e[1;77m29\e[0m\e[1;31m]\e[0m\e[1;93m VK\e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77m10\e[0m\e[1;31m]\e[0m\e[1;93m GitHub       \e[0m\e[1;31m[\e[0m\e[1;77m20\e[0m\e[1;31m]\e[0m\e[1;93m Adobe\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m31\e[0m\e[1;31m]\e[0m\e[1;93m CIC\e[0m\n"
 printf "\e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77mST\e[0m\e[1;31m]\e[0m\e[1;93m Termux Setup \e[1;31m[\e[0m\e[1;77mSL\e[0m\e[1;31m]\e[0m\e[1;93m Linux Setup  \e[0m\e[1;31m[\e[0m\e[1;77mEX\e[0m\e[1;31m]\e[0m\e[1;93m Exit\e[0m\n"
 printf "\e[0m\n"
@@ -182,9 +181,6 @@ server="stackoverflow"
 start
 elif [[ $option == 29 ]]; then
 vk
-elif [[ $option == 31]]; then
-server="cic"
-start
 elif [[ $option == ST || $option == st ]]; then
 clear
 printf "\n\e[1;92mRunning Termux Setup "
