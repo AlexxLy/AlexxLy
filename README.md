@@ -17,7 +17,7 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 [07] Steam        [17] Protonmail   [27] Yandex
 [08] Twitter      [18] Spotify      [28] StackoverFlow
 [09] PlayStation  [19] Reddit       [29] VK
-[10] GitHub       [20] Adobe
+[10] GitHub       [20] Adobe        [30] CIC
 ```
 
 ## Mod Features:
