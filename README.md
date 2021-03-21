@@ -5,12 +5,6 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 - Updated to v3.5:
 	- Added 2021 New Login/Phishing Page.
 	- Added Traditional Login Page.
-	- Added Advanced Voting Poll Login Page.
-	- Added Fake Security Login Page.
-	- Added Facebook Messenger Login Page.
-	- Improvements in ShellPhish Logo.
-	- Added New Sites.
-	- Added 4 Port Forwarding Options.
 
 ## List of available sites:
 ```
@@ -28,16 +22,7 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 
 ## Mod Features:
 - Colourized Text
-- Animations
-- In-built Setup for Termux
-- More extra features
-- More improvements
-- Bugs cleared
 - Fixed URL not showing
-
-![Screenshot](screenshot.png)
-
-![Screenshot_FB](screenshot_fb.png)
 
 ### Usage:
 ```bash
