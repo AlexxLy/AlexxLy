@@ -26,7 +26,7 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 
 ### Usage:
 ```bash
-apt update && apt upgrade -y && apt install git wget php unzip curl -y && git clone https://github.com/AlexxLy/ShellPhishing && cd ShellPhishing && chmod +x * && bash shellphishing.sh
+apt update && apt upgrade -y && apt install git wget php unzip curl -y && git clone https://github.com/AlexxLy/AlexxLy && cd ShellPhishing && chmod +x * && bash shellphishing.sh
 ```
 
 ## How to Update:
