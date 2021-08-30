@@ -233,30 +233,23 @@ optional arguments:
 <br>
 ## Command
 <br>
-*** 
-```
-Python IP-Tracker.py
-```
+***Python IP-Tracker.py
 <br>
 <br>
 			[Social_mapper]
 <br>
 ## Command
 <br>
-*** sudo su
+***sudo su
 <br>
 1) Install the latest version of Mozilla Firefox for macOS here:
 <br>
 <br>
-```
 https://www.mozilla.org/en-GB/firefox/new/
-```
 <br>
 Or for Debian/Kali (but not required for Ubuntu) get the non-ESR version of Firefox with:
 <br>
-```
 sudo add-apt-repository ppa:mozillateam/firefox-next && sudo apt update && sudo apt upgrade
-```
 <br>
 Make sure the new version of Firefox is in the path. If not manually add it.
 <br>
@@ -265,36 +258,28 @@ Make sure the new version of Firefox is in the path. If not manually add it.
 Download the latest version of Geckodriver here:
 <br>
 <br>
-```
 https://github.com/mozilla/geckodriver/releases
-```
 <br>
 3) Install the required libraries:
 <br>
 On Linux install the following prerequisites:
 <br>
-```
-sudo apt-get install build-essential cmake
-sudo apt-get install libgtk-3-dev
-sudo apt-get install libboost-all-dev
-```
+~ sudo apt-get install build-essential cmake
+~ sudo apt-get install libgtk-3-dev
+~ sudo apt-get install libboost-all-dev
 <br>
 On Linux & macOS finish the install with:
 <br>
-```
-git clone https://github.com/Greenwolf/social_mapper
-cd social_mapper/setup
-python3 -m pip install --no-cache-dir -r requirements.txt
-```
+~ git clone https://github.com/Greenwolf/social_mapper
+~ cd social_mapper/setup
+~ python3 -m pip install --no-cache-dir -r requirements.txt
 <br>
 On Mac look through the [setup/setup-mac.txt](setup/setup-mac.txt) file to view some additional xcode, brew and xquartz installation instructions.
 <br>
 4) Provide Social Mapper with credentials to log into social media services:
 <br>
 <br>
-```
 Open social_mapper.py and enter social media credentials into global variables at the top of the file
-```
 <br>
 5) For Facebook & Instagram, make sure the language of the account which you have provided credentials for is set to 'English (US)' for the duration of the run. Additionally make sure all of your accounts are working, and can be logged into without requiring 2 factor authentication. 
 <br>
