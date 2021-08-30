@@ -229,7 +229,10 @@ optional arguments:
 <br>
 ## Command
 <br>
-*** Python IP-Tracker.py
+*** 
+```
+Python IP-Tracker.py
+```
 <br>
 <br>
 			[Social_mapper]
@@ -274,7 +277,6 @@ sudo apt-get install libboost-all-dev
 <br>
 On Linux & macOS finish the install with:
 <br>
-
 ```
 git clone https://github.com/Greenwolf/social_mapper
 cd social_mapper/setup
