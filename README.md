@@ -7,8 +7,8 @@
 
               # INSTALLATION [KALI LINUX] :
 <br>
-~ ```git clone htpps://github.com/AlexxLy/All-exTool```
-~ ```pip3 install -r requirements.txt```
+~ ``` git clone htpps://github.com/AlexxLy/All-exTool```
+~ ``` pip3 install -r requirements.txt```
 <br>
 <br>
 		     ## AVAILABLE ON :
@@ -29,7 +29,7 @@
 <br>
 <br>
 <br>
-<p> ```-------------------------- VPN --------------------------
+<p> ``` -------------------------- VPN --------------------------
 		~ AutoTor
 	       ========================
 -------------------- Create Wordlist --------------------
@@ -95,6 +95,7 @@ AutoTor.
 =========================================================
 <br>
 			[DDOS-Attacks]
+<br>
 ## Command
 <br>
 ***Python3 ddos-attacks.py
@@ -179,6 +180,7 @@ AutoTor.
 <br>
 <br>
 			[Impulse]
+<br>
 ## Command
 <br>
 *** Python3 impulse.py -i
@@ -186,6 +188,7 @@ AutoTor.
 <br>
 <br>
 			[InstaBot]
+<br>
 ## Command
 <br>
 *** Bash inshackle.sh
@@ -193,6 +196,7 @@ AutoTor.
 <br>
 <br>
 			[InstaHack] (OLD)
+<br>
 ## Command
 <br>
 *** Python3 instagram.py "username" "directory wordlist" -m "MODE"
@@ -222,12 +226,16 @@ optional arguments:
 <br>
 <br>
 			[IP-Tracker]
+<br>
 ## Command
+<br>
 *** Python IP-Tracker.py
 <br>
 <br>
 			[Social_mapper]
+<br>
 ## Command
+<br>
 *** sudo su
 <br>
 1) Install the latest version of Mozilla Firefox for macOS here:
@@ -289,7 +297,9 @@ Open social_mapper.py and enter social media credentials into global variables a
 <br>
 <br>
 			[SpiShing]
+<br>
 ## Command
+<br>
 *** Bash shellphishing.sh
 <br>
 <br>
