@@ -1,32 +1,32 @@
-=========================================================
+
 <br>
 <br>
                    <p> Open Terminal </p>
 <br>
 <br>
-=========================================================
+
               # INSTALLATION [KALI LINUX] :
 <br>
 ~ ```git clone htpps://github.com/AlexxLy/All-exTool```
 ~ ```pip3 install -r requirements.txt```
 <br>
-=========================================================
+<br>
 		     ## AVAILABLE ON :
 <br>
         		Kali Linux
 <br>
-=========================================================
+<br>
 <br>
   the requirements are available always/for all programs
 <br>
-=========================================================
+<br>
                  ## SCREEN SHOTS [KALI LINUX]
 <br>
 <p align="center">
 <img width="45%" src="https://media0.giphy.com/media/YhqOIqAxz5qQo/giphy.gif?cid=ecf05e47tl3xz5zurnh8kp4gc7wcq62ivlenyo2fawxf39cr&rid=giphy.gif&ct=g"/>
 </p>
 <br>
-=========================================================
+<br>
 <br>
 <br>
 -------------------------- VPN --------------------------
@@ -54,7 +54,7 @@
 		~ EggShell
 	       ========================
 <br>	             
-=========================================================
+<br>
 <br>
 			[AutoTor]
 <br>
