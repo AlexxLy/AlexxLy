@@ -29,7 +29,7 @@
 <br>
 <br>
 <br>
--------------------------- VPN --------------------------
+<p> -------------------------- VPN --------------------------
 		~ AutoTor
 	       ========================
 -------------------- Create Wordlist --------------------
@@ -53,6 +53,7 @@
 ------------------------- Hack --------------------------
 		~ EggShell
 	       ========================
+</p>
 <br>	             
 <br>
 <br>
@@ -69,6 +70,7 @@ setting -> preferences -> "find in preferences" Network Setting "open setting"
 manual proxy configuration -> SOCKS Host "IP ADDRESS SOCK FOR MY IS 127.0.0.1
 and port 9050 "SOCKS v5" Press "OK", close firefox, exit AutoTor and reaload
 AutoTor.
+<br>
 =========================================================
 <br>
 			[CUPP]
