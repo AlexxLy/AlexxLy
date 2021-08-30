@@ -29,7 +29,7 @@
 <br>
 <br>
 <br>
-<p> -------------------------- VPN --------------------------
+<p> ```-------------------------- VPN --------------------------
 		~ AutoTor
 	       ========================
 -------------------- Create Wordlist --------------------
@@ -52,7 +52,7 @@
 	       ========================
 ------------------------- Hack --------------------------
 		~ EggShell
-	       ========================
+	       ========================```
 </p>
 <br>	             
 <br>
@@ -176,21 +176,21 @@ AutoTor.
 * **pid**            : get process id
 * **pwd**            : show current directory
 * **upload**         : upload file
-=========================================================
+<br>
 <br>
 			[Impulse]
 ## Command
 <br>
 *** Python3 impulse.py -i
 <br>
-=========================================================
+<br>
 <br>
 			[InstaBot]
 ## Command
 <br>
 *** Bash inshackle.sh
 <br>
-=========================================================
+<br>
 <br>
 			[InstaHack] (OLD)
 ## Command
@@ -199,7 +199,7 @@ AutoTor.
 <br>
 modes: 0 => 32 bots; 1 => 16 bots; 2 => 8 bots; 3 => 4 bots
 <br>
-=========================================================
+<br>
 <br>
 			[InstaHack] (NEW)
 <br>
@@ -220,19 +220,19 @@ optional arguments:
   -m MODE, --mode MODE  modes: 0 => 32 bots; 1 => 16 bots; 2 => 8 bots; 3 => 4 bots
 <br>
 <br>
-=========================================================
+<br>
 			[IP-Tracker]
 ## Command
 *** Python IP-Tracker.py
 <br>
-=========================================================
+<br>
 			[Social_mapper]
 ## Command
 *** sudo su
 <br>
 1) Install the latest version of Mozilla Firefox for macOS here:
 <br>
-
+<br>
 ```
 https://www.mozilla.org/en-GB/firefox/new/
 ```
@@ -249,7 +249,7 @@ Make sure the new version of Firefox is in the path. If not manually add it.
 <br>
 Download the latest version of Geckodriver here:
 <br>
-
+<br>
 ```
 https://github.com/mozilla/geckodriver/releases
 ```
@@ -262,9 +262,8 @@ On Linux install the following prerequisites:
 sudo apt-get install build-essential cmake
 sudo apt-get install libgtk-3-dev
 sudo apt-get install libboost-all-dev
-<br>
 ```
-
+<br>
 On Linux & macOS finish the install with:
 <br>
 
@@ -278,7 +277,7 @@ On Mac look through the [setup/setup-mac.txt](setup/setup-mac.txt) file to view 
 <br>
 4) Provide Social Mapper with credentials to log into social media services:
 <br>
-
+<br>
 ```
 Open social_mapper.py and enter social media credentials into global variables at the top of the file
 ```
@@ -288,12 +287,12 @@ Open social_mapper.py and enter social media credentials into global variables a
 6) Use the Firefox browser to login to each Social Media Profile once and save/process and "unknown browser" or "trust this browser" pages. 
 <br>
 <br>
-=========================================================
+<br>
 			[SpiShing]
 ## Command
 *** Bash shellphishing.sh
 <br>
-=========================================================
+<br>
 <br>
 #  [License]
 #<br>
@@ -313,7 +312,7 @@ Open social_mapper.py and enter social media credentials into global variables a
 #<br>
 #  See 'LICENSE' for more information.
 <br>
-=========================================================
+<br>
 <br>
 MIT License
 <br>
@@ -340,12 +339,12 @@ SOFTWARE.
 Sign: AlexxLy
 <br>
 <br>
-=========================================================
+<br>
 <br>
 	<b> GITHUB : AlexxLy / YouTube : AlexxModder
 		INSTA : dcs.alexx </b>
 <br>
-=========================================================
+<br>
 <br>
 ## Follow on:
 <p align="left">
