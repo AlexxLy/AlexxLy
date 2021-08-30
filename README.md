@@ -7,8 +7,11 @@
 
               # INSTALLATION [KALI LINUX] :
 <br>
-~ ``` git clone htpps://github.com/AlexxLy/All-exTool```
-~ ``` pip3 install -r requirements.txt```
+
+~ git clone htpps://github.com/AlexxLy/All-exTool
+<br>
+
+~ pip3 install -r requirements.txt
 <br>
 <br>
 		     ## AVAILABLE ON :
@@ -92,6 +95,7 @@ AutoTor.
                 Project Alecto uses purified databases of Phenoelit and CIRT which where merged and enhanced.
 <br>
         -v      Version of the program
+<br>
 =========================================================
 <br>
 			[DDOS-Attacks]
