@@ -1,3 +1,5 @@
+magnet:?xt=urn:btih:5a9ba318a5478769ddc7393f1e4ac928d9aa4a71&dn=breachcompilation.txt.7z
+magnet:?xt=urn:btih:6971d7448212bc94b5e0a542887c2132c92edaed&dn=ANTIPUBLIC%20%231
 # ShellPhish v3.5-MOD
 Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam, Twitter, PlayStation, GitHub, Twitch, Pinterest, Snapchat, Linkedin, Ebay, Dropbox, Protonmail, Spotify, Reddit, Adobe, DeviantArt, Badoo, Origin, CryptoCoin, Yahoo, Wordpress, Yandex, StachoverFlow, VK & CIC. This is a modified version of ShellFish, ShellPhish & Zphisher.
 
